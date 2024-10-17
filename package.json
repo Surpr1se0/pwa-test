@@ -2,7 +2,7 @@
   "name": "name-of-our-pwa-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Surpr1se0/github.io/pwa-test",
+  "homepage": "http://Surpr1se0.github.io/pwa-test",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
